@@ -1,5 +1,7 @@
 # osm-deleted-poi
 
+[Version française.](README.fr.md)
+
 Find deleted OpenStreetMap POI in a zone.
 
 # Motivation
